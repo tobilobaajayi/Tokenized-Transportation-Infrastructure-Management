@@ -7,3 +7,5 @@ S
 #contracts/condition-monitoring.clar,6/3/6350ddd8c16d32c7d3680508f2ca56751b55d627
 U
 %contracts/maintenance-scheduling.clar,f/7/f75564e007197f104115c4551443027923af5a64
+T
+$contracts/performance-analytics.clar,6/4/64c546131d60492f12020022f9d031aecfc1a850
